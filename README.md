@@ -1,6 +1,6 @@
-# U_TypeScript_TodoList
+# TypeScript To-Do List list ✅
 
-First small project using TypeScript 
+## First small project using TypeScript 🚀
 
 Created a ToDo list using TypeScript working with the DOM, 
 the Lib Compiler, aknowleging Non-Null Assertion Operator 
